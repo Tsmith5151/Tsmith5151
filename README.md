@@ -1,4 +1,4 @@
-### Trace's GitHub Profile 👋
+### Trace's Profile 👋
 
 - 🔭 Working on [SlickML](https://github.com/slickml/slick-ml)
 - 🌱 Learning More Details on MLOps and Software Engineering 
