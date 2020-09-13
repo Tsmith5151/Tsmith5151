@@ -4,7 +4,7 @@
 - 🌱 Learning More Details on MLOps and Software Engineering 
 - 👯 Looking to Collaborate on Machine Learning Projects
 - 💬 Ask me about Data Science and Machine Learning
- 📫 How to reach me: tsmith5151@gmail.com
+- 📫 How to reach me: tsmith5151@gmail.com
 
 ---
 
