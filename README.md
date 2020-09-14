@@ -14,11 +14,18 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Data Science Skills & Languages:
+
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/r.svg" />
+<img align="left" alt="spark" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/apachespark.svg" />
+<img align="left" alt="vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/vim.svg" />
+<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/amazonaws.svg" />
+<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/docker.svg" />
+<img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/pytorch.svg" />
+<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/tensorflow.svg" />
+
 
 <br />
 <br />
