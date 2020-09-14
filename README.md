@@ -25,6 +25,7 @@
 <img align="left" alt="vim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/vim.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/git.svg" />
 <img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/amazonaws.svg" />
+<img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/microsoftazure.svg" />
 <img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/docker.svg" />
 <img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/pytorch.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/tensorflow.svg" />
