@@ -10,6 +10,8 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />][github]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
@@ -35,6 +37,8 @@
 <img align="left" alt="Tsmith5151's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tsmith5151&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/tracesmith1/
+[github]: https://www.github.com/tsmith5151/
+[twitter]: https://twitter.com/Trace_Smith51/
 <br />
 <br />
 
